@@ -65,6 +65,7 @@ public class ReversedList<E> {
             this.elements[i] = this.elements[i + 1];
         }
         this.size--;
+
     }
 
 
