@@ -62,7 +62,12 @@ public class ReversedList<E> {
         System.out.println(elementAboutToBeRemoved);
         for (int i = this.size-1-index; i < this.elements.length-1; i++) {
             // ot 2 do
-            this.elements[i] = this.elements[i + 1];
+           // this.elements[i] = this.elements[i + 1];
+        }
+
+        for (int i = this.elements.length-1; i > this.size-1-index ; i--) {
+            // ot 2 do
+            this.elements[i] = this.elements[i - 1];
         }
         this.size--;
 
