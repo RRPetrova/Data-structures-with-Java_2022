@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8badd3e-cd23-4ee9-aece-793e3336f5f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/04__Data_Structures_Trees_Representation_and_Traversal__BFS_DFS__skeleton.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__antlr_antlr_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__ch_ethz_ganymed_ganymed_ssh2_build210.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__classworlds_classworlds_1_1_alpha_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__com_goldmansachs_gs_collections_6_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__com_goldmansachs_gs_collections_api_6_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__com_goldmansachs_gs_collections_forkjoin_6_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__com_goldmansachs_gs_collections_testutils_6_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__com_mks_api_mksapi_jar_4_10_9049.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_cli_commons_cli_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_io_commons_io_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__dom4j_dom4j_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__jaxen_jaxen_1_1_beta_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__jdom_jdom_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_ant_ant_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_core_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_decoration_model_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_integration_tools_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_logging_api_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_apt_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_fml_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_markdown_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xdoc_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xhtml_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_sink_api_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_doxia_doxia_site_renderer_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_archiver_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_core_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_error_diagnostics_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_model_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_monitor_2_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_plugin_descriptor_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_plugin_parameter_documenter_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_profile_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_project_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_maven_toolchain_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_plugin_tools_maven_plugin_annotations_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_plugins_maven_antrun_plugin_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_plugins_maven_assembly_plugin_2_2_beta_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_plugins_maven_release_plugin_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_plugins_maven_resources_plugin_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_plugins_maven_site_plugin_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_plugins_maven_surefire_plugin_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_release_maven_release_manager_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_exec_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_api_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_manager_plexus_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_accurev_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_bazaar_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_clearcase_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_cvs_commons_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_cvsexe_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_cvsjava_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_git_commons_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_gitexe_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_hg_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_integrity_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_jazz_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_perforce_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_starteam_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_svn_commons_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_svnexe_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_synergy_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_tfs_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_scm_maven_scm_provider_vss_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_shared_file_management_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_shared_maven_common_artifact_filters_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_shared_maven_filtering_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_shared_maven_invoker_2_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_shared_maven_plugin_testing_harness_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_shared_maven_repository_builder_1_0_alpha_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_io_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_surefire_maven_surefire_common_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_surefire_surefire_api_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_surefire_surefire_booter_2_12_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_struts_struts_core_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_struts_struts_taglib_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_struts_struts_tiles_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_1_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_active_collections_1_0_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_archiver_1_0_alpha_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9_stable_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_i18n_1_0_beta_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_interactivity_api_1_0_alpha_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_io_1_0_alpha_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_codehaus_plexus_plexus_velocity_1_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_eclipse_aether_aether_util_0_9_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_netbeans_lib_cvsclient_20060125.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_openjdk_jol_jol_core_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_ow2_asm_asm_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_ow2_asm_asm_analysis_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_ow2_asm_asm_tree_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_ow2_asm_asm_util_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_parboiled_parboiled_core_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_parboiled_parboiled_java_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_pegdown_pegdown_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__regexp_regexp_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__sslext_sslext_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_Trees Representation and Traversal_lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAdvanced_2022/src/com/java_advanced/_01_stacks_queues/_03_DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex20032022/ex20032022.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_Heaps, BST_ex/src/test/java/BinarySearchTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_Heaps, BST_ex/src/test/java/BinarySearchTreeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="28c7sXrL5AFXVjCLfzsoXo3XkDL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HashTableTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Red-Black-Trees-and-AA-Trees-Exercise-Skeleton" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HashTableTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HashTableTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8badd3e-cd23-4ee9-aece-793e3336f5f3" name="Changes" comment="" />
+      <created>1651504238179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651504238179</updated>
+      <workItem from="1651504243566" duration="3370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
